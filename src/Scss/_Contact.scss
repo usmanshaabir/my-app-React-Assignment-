@@ -1,0 +1,25 @@
+.card {
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    .whatsapp-color {
+        color: #25d366;
+    }
+}
+
+.form-backGround {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: linear-gradient(to right, #0f2027, #203A43, #2C5364);
+    
+    textarea{
+        resize: none;
+        height: 125px !important;
+    }
+}
+.map{
+    width: 100%;
+    height: 500px;
+     border:0;
+      
+}
